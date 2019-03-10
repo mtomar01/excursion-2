@@ -20,8 +20,15 @@ body {
   font-size: 21px;
   color: grey;
 }
+
 /* LINKS */
 .link--cta {
   font-size: 16px;
   color: aquamarine;
+}
+
+/* FOOTER */
+.footer--style {
+  text-align: right;
+  color: grey;
 }
