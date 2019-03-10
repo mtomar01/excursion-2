@@ -1,0 +1,57 @@
+* {
+  background-color: black;
+  font-family: Verdana, Arial, cursive;
+}
+h1 {
+  font-family: Verdana, Arial, cursive;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-family: Verdana, Arial, cursive;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+.video1 {
+  display: flex;
+  justify-content: center;
+}
+.video1 video {
+    width: 250;
+}
+.article1 {
+  color: green;
+  text-align: center;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.display_block{
+  display: flex;
+  flex-direction: column;
+}
+.article2 section p {
+  font-family: Verdana, Arial, cursive;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+.article2 section a {
+  text-align: center;
+}
+.img1 {
+  width: 700px;
+  text-align: center;
+}
+footer p {
+  color: gray;
+  font-family: Verdana, Arial, cursive;
+  text-align: right;
+}
